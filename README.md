@@ -1,4 +1,4 @@
-![logo](https://github.com/SwatiS-hash/SwatiS-hash/blob/main/ba%20banner%20linkin.jpg)
+![logo](https://github.com/SwatiS-hash/SwatiS-hash/blob/main/banner%20new.jpg)
 <h1 align="center">Hi 👋, I'm Swati Somawanshi</h1>
 <h3 align="center">An aspiring Business Analyst from India</h3>
 
