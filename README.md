@@ -6,7 +6,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.datascienceportfol.io/swatis](https://www.datascienceportfol.io/swatis)
 
-- 💬 Ask me about **Mysql,Figma,Requirement Gathering**
+- 💬 Ask me about **Mysql, Figma, Wireframes, Screen Mock-up, Requirement Gathering, BRD, FRD, Agile, Jira, User Stories**
 
 - 📫 How to reach me **swatisomawanshi@gmail.com**
 
