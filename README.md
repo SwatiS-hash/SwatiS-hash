@@ -1,6 +1,6 @@
 ![logo](https://github.com/SwatiS-hash/SwatiS-hash/blob/main/banner%20new.jpg)
 <h1 align="center">Hi 👋, I'm Swati Somawanshi</h1>
-<h3 align="center">An aspiring Business Analyst from India</h3>
+<h3 align="center">A Passionate Business Analyst from India</h3>
 
 <img align="right" alt="coding" width="300" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQJMoGD1F3CqFEyzd_izvv0TmVsfKNrgPWlg&s">
 
